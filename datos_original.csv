@@ -1,0 +1,23 @@
+"Num_Estaciones_MV (J)",3
+"Num_Estaciones_LV (K)",3
+"Num_Clientes_Ind (I)",4
+"Num_Clientes_Dom (D)",4
+"Coste_Cable_HV",258
+"Coste_Cable_MV",15
+"Coste_Cable_LV",2
+"Nombre","Coord_X","Coord_Y","Cost"
+"S",0,0,0
+"J1",60,80,15500
+"J2",50,50,17000
+"J3",80,20,20000
+"K1",30,70,7700
+"K2",40,40,10000
+"K3",70,50,6700
+"Ind1",15,85,0
+"Ind2",25,75,0
+"Ind3",85,15,0
+"Ind4",55,55,0
+"Dom1",32,72,0
+"Dom2",28,68,0
+"Dom3",42,38,0
+"Dom4",72,32,0
